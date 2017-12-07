@@ -1,6 +1,6 @@
 # Authentication Challenge
 
-Welcome to the authentication 
+Welcome to the authentication challenge. Please complete the following tasks.
 
 Tasks:
 
